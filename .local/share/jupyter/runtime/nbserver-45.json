@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/yauhenikaliada",
+  "password": true,
+  "pid": 45,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://localhost:8888/"
+}
